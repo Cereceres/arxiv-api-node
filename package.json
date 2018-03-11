@@ -1,0 +1,29 @@
+{
+  "name": "arxiv-api-node",
+  "version": "0.0.1",
+  "description": "node module to do request to arxiv api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/arxiv-api-node.git"
+  },
+  "keywords": [
+    "arxiv",
+    "api",
+    "rest",
+    "query",
+    "research"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/arxiv-api-node/issues"
+  },
+  "homepage": "https://github.com/Cereceres/arxiv-api-node#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
