@@ -1,6 +1,6 @@
 {
   "name": "arxiv-api-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node module to do request to arxiv api",
   "main": "index.js",
   "scripts": {
