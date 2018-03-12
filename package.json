@@ -4,7 +4,7 @@
   "description": "node module to do request to arxiv api",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test --recursive "
+    "test": "mocha --recursive --timeout 4000 test"
   },
   "repository": {
     "type": "git",
